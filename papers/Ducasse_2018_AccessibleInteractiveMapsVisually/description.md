@@ -1,0 +1,6 @@
+---
+tags: [accessibility, tactile-maps, interactive-maps, visually-impaired, spatial-cognition, hci]
+---
+This Springer chapter surveys three decades of accessible interactive map prototypes for visually impaired users and proposes a two-level classification splitting devices into Digital Interactive Maps (DIMs, flat touchscreens / haptic devices) and Hybrid Interactive Maps (HIMs, which add a physical/refreshable tactile layer), then compares families on cost, map content, readability and interactivity.
+Key findings: HIMs consistently outperform pure DIMs on shape recognition and layout learning, audio labels beat braille for label-dense maps, absolute-input devices beat relative ones, and interactive tactile maps (e.g. Brock et al. 2015) produce measurable spatial-cognition gains that transfer to real environments, while refreshable pin displays remain too small, slow and expensive for practical field use.
+Directly relevant to inclusive-cartography: establishes the canonical DIM/HIM taxonomy and empirical base against which any LLM-driven or audio-only cartographic surrogate must justify itself, especially regarding persistent reference frames, multi-finger exploration, and authoring by VI users themselves.

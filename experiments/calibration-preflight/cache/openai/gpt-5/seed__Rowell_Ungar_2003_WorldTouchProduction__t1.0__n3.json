@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 3,
+  "item_id": "seed::Rowell_Ungar_2003_WorldTouchProduction",
+  "raw_text": "{\n  \"tag\": \"screening:rq1\",\n  \"confidence_score\": 0.88,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq1",
+    "confidence_score": 0.88,
+    "exclusion_reason": null
+  },
+  "wall_s": 7.595215320587158,
+  "usage": {
+    "input_tokens": 1029,
+    "output_tokens": 689,
+    "total_tokens": 1718
+  }
+}

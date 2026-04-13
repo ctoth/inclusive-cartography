@@ -1,0 +1,10 @@
+{
+  "title": "Interactivity Improves Usability of Geographic Maps for Visually Impaired People",
+  "authors": ["Anke M. Brock", "Philippe Truillet", "Bernard Oriola", "Delphine Picard", "Christophe Jouffrais"],
+  "year": "2015",
+  "arxiv_id": null,
+  "doi": "10.1080/07370024.2014.924412",
+  "abstract": "Tactile relief maps are used by visually impaired people to acquire mental representation of space, but they retain important limitations (limited amount of information, braille text, etc.). Interactive maps may overcome these limitations. However, usability of these two types of maps had never been compared. It is then unknown whether interactive maps are equivalent or even better solutions than traditional raised-line maps. This study presents a comparison of usability of a classical raised-line map vs. an interactive map composed by a multi-touch screen, a raised-line overlay and audio output. Both maps were tested by 24 blind participants. We measured usability as efficiency, effectiveness and satisfaction. Our results show that replacing braille with simple audio-tactile interaction significantly improved efficiency and user satisfaction. Effectiveness was not related to the map type but depended on users' characteristics as well as the category of assessed spatial knowledge. Long-term evaluation of acquired spatial information revealed that maps, whether interactive or not, are useful to build robust survey-type mental representations in blind users. Altogether, these results are encouraging as they show that interactive maps are a good solution for improving map exploration and cognitive mapping in visually impaired people.",
+  "url": "https://hal.science/hal-01077434",
+  "pdf_url": "https://hal.science/hal-01077434v1/file/AcceptedManuscript-HCI-2014.pdf"
+}

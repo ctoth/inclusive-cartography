@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 3,
+  "item_id": "seed::Götzelmann_2016_LucentMaps3DPrintedAudiovisual",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.95,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.95,
+    "exclusion_reason": null
+  },
+  "wall_s": 3.4323694705963135,
+  "usage": {
+    "input_tokens": 1031,
+    "output_tokens": 303,
+    "total_tokens": 1334
+  }
+}

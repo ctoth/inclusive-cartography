@@ -1,0 +1,494 @@
+{
+  "primary": [
+    {
+      "provider": "openai",
+      "model": "gpt-5",
+      "n_items": 52,
+      "n_parse_errors": 0,
+      "n_missing": 0,
+      "overall_accuracy": 0.8846153846153846,
+      "per_class": [
+        {
+          "tag": "screening:rq1",
+          "precision": 0.42857142857142855,
+          "recall": 1.0,
+          "f1": 0.6,
+          "support": 3
+        },
+        {
+          "tag": "screening:rq2",
+          "precision": 1.0,
+          "recall": 0.6153846153846154,
+          "f1": 0.7619047619047619,
+          "support": 13
+        },
+        {
+          "tag": "screening:rq3",
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        {
+          "tag": "screening:excluded",
+          "precision": 0.9459459459459459,
+          "recall": 1.0,
+          "f1": 0.9722222222222222,
+          "support": 35
+        }
+      ],
+      "confusion_matrix": {
+        "labels": [
+          "screening:rq1",
+          "screening:rq2",
+          "screening:rq3",
+          "screening:excluded"
+        ],
+        "matrix": [
+          [
+            3,
+            0,
+            0,
+            0
+          ],
+          [
+            3,
+            8,
+            0,
+            2
+          ],
+          [
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            35
+          ]
+        ]
+      },
+      "ece_correctness": 0.0673076923076923,
+      "ece_correctness_bins": [
+        {
+          "lo": 0.0,
+          "hi": 0.1,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.1,
+          "hi": 0.2,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.2,
+          "hi": 0.30000000000000004,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.30000000000000004,
+          "hi": 0.4,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.4,
+          "hi": 0.5,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.5,
+          "hi": 0.6000000000000001,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.6000000000000001,
+          "hi": 0.7000000000000001,
+          "count": 1,
+          "mean_conf": 0.62,
+          "acc": 0.0
+        },
+        {
+          "lo": 0.7000000000000001,
+          "hi": 0.8,
+          "count": 2,
+          "mean_conf": 0.78,
+          "acc": 0.0
+        },
+        {
+          "lo": 0.8,
+          "hi": 0.9,
+          "count": 6,
+          "mean_conf": 0.8566666666666666,
+          "acc": 0.6666666666666666
+        },
+        {
+          "lo": 0.9,
+          "hi": 1.0,
+          "count": 43,
+          "mean_conf": 0.9725581395348837,
+          "acc": 0.9767441860465116
+        }
+      ],
+      "ece_include_binary": 0.045769230769230784,
+      "auroc_include": 1.0,
+      "threshold_analysis": {
+        "auto_include_gt_0.90": {
+          "count": 43,
+          "fraction_of_total": 0.8269230769230769,
+          "tag_correct": 42,
+          "tag_correct_rate": 0.9767441860465116,
+          "actually_positive": 8,
+          "actually_positive_rate": 0.18604651162790697
+        },
+        "auto_exclude_lt_0.70": {
+          "count": 1,
+          "fraction_of_total": 0.019230769230769232,
+          "tag_correct": 0,
+          "tag_correct_rate": 0.0,
+          "actually_negative": 0,
+          "actually_negative_rate": 0.0
+        },
+        "human_review_0.70_to_0.90": {
+          "count": 8,
+          "fraction_of_total": 0.15384615384615385
+        }
+      },
+      "confidence_distribution": {
+        "modal_value": 0.99,
+        "modal_count": 25,
+        "mult5_count": 1,
+        "mult5_fraction": 0.019230769230769232,
+        "all_values": [
+          0.99,
+          0.99,
+          0.99,
+          0.99,
+          0.99,
+          0.99,
+          0.98,
+          0.96,
+          0.99,
+          0.99,
+          0.99,
+          0.99,
+          0.99,
+          0.93,
+          0.99,
+          0.98,
+          0.99,
+          0.97,
+          0.99,
+          0.99,
+          0.99,
+          0.97,
+          0.99,
+          0.99,
+          0.97,
+          0.99,
+          0.99,
+          0.99,
+          0.98,
+          0.93,
+          0.96,
+          0.99,
+          0.99,
+          0.99,
+          0.99,
+          0.83,
+          0.92,
+          0.62,
+          0.86,
+          0.93,
+          0.91,
+          0.93,
+          0.84,
+          0.94,
+          0.92,
+          0.88,
+          0.95,
+          0.84,
+          0.78,
+          0.78,
+          0.94,
+          0.89
+        ]
+      },
+      "usage": {
+        "input_tokens": 50799,
+        "output_tokens": 18975
+      }
+    },
+    {
+      "provider": "gemini",
+      "model": "gemini-2.5-pro",
+      "n_items": 52,
+      "n_parse_errors": 0,
+      "n_missing": 0,
+      "overall_accuracy": 0.9423076923076923,
+      "per_class": [
+        {
+          "tag": "screening:rq1",
+          "precision": 0.6,
+          "recall": 1.0,
+          "f1": 0.75,
+          "support": 3
+        },
+        {
+          "tag": "screening:rq2",
+          "precision": 0.9166666666666666,
+          "recall": 0.8461538461538461,
+          "f1": 0.88,
+          "support": 13
+        },
+        {
+          "tag": "screening:rq3",
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 1
+        },
+        {
+          "tag": "screening:excluded",
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "support": 35
+        }
+      ],
+      "confusion_matrix": {
+        "labels": [
+          "screening:rq1",
+          "screening:rq2",
+          "screening:rq3",
+          "screening:excluded"
+        ],
+        "matrix": [
+          [
+            3,
+            0,
+            0,
+            0
+          ],
+          [
+            2,
+            11,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            35
+          ]
+        ]
+      },
+      "ece_correctness": 0.046923076923076845,
+      "ece_correctness_bins": [
+        {
+          "lo": 0.0,
+          "hi": 0.1,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.1,
+          "hi": 0.2,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.2,
+          "hi": 0.30000000000000004,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.30000000000000004,
+          "hi": 0.4,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.4,
+          "hi": 0.5,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.5,
+          "hi": 0.6000000000000001,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.6000000000000001,
+          "hi": 0.7000000000000001,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.7000000000000001,
+          "hi": 0.8,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.8,
+          "hi": 0.9,
+          "count": 0,
+          "mean_conf": null,
+          "acc": null
+        },
+        {
+          "lo": 0.9,
+          "hi": 1.0,
+          "count": 52,
+          "mean_conf": 0.9892307692307691,
+          "acc": 0.9423076923076923
+        }
+      ],
+      "ece_include_binary": 0.010769230769230864,
+      "auroc_include": 1.0,
+      "threshold_analysis": {
+        "auto_include_gt_0.90": {
+          "count": 52,
+          "fraction_of_total": 1.0,
+          "tag_correct": 49,
+          "tag_correct_rate": 0.9423076923076923,
+          "actually_positive": 17,
+          "actually_positive_rate": 0.3269230769230769
+        },
+        "auto_exclude_lt_0.70": {
+          "count": 0,
+          "fraction_of_total": 0.0,
+          "tag_correct": 0,
+          "tag_correct_rate": null,
+          "actually_negative": 0,
+          "actually_negative_rate": null
+        },
+        "human_review_0.70_to_0.90": {
+          "count": 0,
+          "fraction_of_total": 0.0
+        }
+      },
+      "confidence_distribution": {
+        "modal_value": 1.0,
+        "modal_count": 36,
+        "mult5_count": 44,
+        "mult5_fraction": 0.8461538461538461,
+        "all_values": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.98,
+          0.95,
+          0.95,
+          0.98,
+          1.0,
+          0.95,
+          0.95,
+          0.95,
+          0.98,
+          0.98,
+          0.95,
+          0.98,
+          0.95,
+          0.98,
+          0.95,
+          0.98,
+          0.98
+        ]
+      },
+      "usage": {
+        "input_tokens": 54815,
+        "output_tokens": 2062
+      }
+    }
+  ],
+  "secondary": [
+    {
+      "provider": "openai",
+      "model": "gpt-5",
+      "n_items": 10,
+      "n_samples_per_item": 5,
+      "accuracy_modal": 0.9,
+      "mean_agreement": 0.96,
+      "ece_using_agreement": 0.14,
+      "ece_using_mean_verbalized": 0.14339999999999997,
+      "auroc_using_agreement": NaN
+    },
+    {
+      "provider": "gemini",
+      "model": "gemini-2.5-pro",
+      "n_items": 4,
+      "n_samples_per_item": 5,
+      "accuracy_modal": 1.0,
+      "mean_agreement": 1.0,
+      "ece_using_agreement": 0.0,
+      "ece_using_mean_verbalized": 0.02749999999999997,
+      "auroc_using_agreement": NaN
+    }
+  ]
+}

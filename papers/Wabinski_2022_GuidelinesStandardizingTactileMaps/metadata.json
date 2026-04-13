@@ -1,0 +1,18 @@
+{
+  "title": "Guidelines for Standardizing the Design of Tactile Maps: A Review of Research and Best Practice",
+  "authors": [
+    "J. Wabiński",
+    "A. Mościcka",
+    "G. Touya"
+  ],
+  "year": "2022",
+  "doi": "10.1080/00087041.2022.2097760",
+  "abstract": "ABSTRACT\n Accessibility to tactile maps is limited due to their expensive and time-consuming development. Acceleration of their production requires standardized design guidelines that consider symbol design and production methods. In this paper, based on a review of research and best practice, we summarize knowledge on how to design tactile maps properly and provide a selection of highly legible, recommended symbols for the compilation of tactile maps. We also examine generalization constraints and other design parameters that are necessary for the standardization of tactile mapping. Finally, we explore differences in tactile map design depending upon the selected production method. Over the years, many useful guidelines have been developed although they remain unknown to the wider audience. There is still a long way to go in creating a global standard for the design of tactile maps.",
+  "url": "https://www.semanticscholar.org/paper/2e98b460f253e0f70ae741bb754dae477698b52c",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/00087041.2022.2097760?needAccess=true",
+  "bibtex": "@Article{Wabiński2022GuidelinesFS,\n author = {J. Wabiński and A. Mościcka and G. Touya},\n booktitle = {The Cartographic Journal},\n journal = {The Cartographic Journal},\n pages = {239 - 258},\n title = {Guidelines for Standardizing the Design of Tactile Maps: A Review of Research and Best Practice},\n volume = {59},\n year = {2022}\n}\n",
+  "venue": "The Cartographic Journal",
+  "venue_type": "journal",
+  "volume": "59",
+  "pages": "239 - 258"
+}

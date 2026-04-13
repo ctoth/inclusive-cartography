@@ -1,0 +1,4 @@
+---
+tags: [tactile-maps, inclusive-cartography, accessibility, literature-review, wayfinding]
+---
+Perkins' first progress report on cartography for Progress in Human Geography surveys post-Fleming (1990) tactile-mapping research across six themes: cognitive map use, design, standardization, production technology, technological substitutes (GIS/GPS/audio/VR), and ethics. Key findings: vacuum-forming and microcapsule hard copy still dominate despite 25+ years of electronic mobility aid development, no international tactile-symbol standard has emerged, and research is overwhelmingly sighted-led, western, urban, and academy-based on an inappropriate medical model of disability. Provides the canonical framing and critical lens for this project's inclusive-cartography work, anchoring the ethics critique that any confidence-threshold or seed-selection protocol should address.

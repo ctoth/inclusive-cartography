@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "seed::Wabinski_2022_GuidelinesStandardizingTactileMaps",
+  "raw_text": "{\n  \"tag\": \"screening:rq1\",\n  \"confidence_score\": 0.89,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq1",
+    "confidence_score": 0.89,
+    "exclusion_reason": null
+  },
+  "wall_s": 4.031426429748535,
+  "usage": {
+    "input_tokens": 939,
+    "output_tokens": 296,
+    "total_tokens": 1235
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "provider": "gemini",
+  "model": "gemini-2.5-pro",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "arxiv-neg::2112.11956v1",
+  "raw_text": "{\n  \"tag\": \"screening:excluded\",\n  \"confidence_score\": 1.00,\n  \"exclusion_reason\": \"no_accessibility_focus\"\n}",
+  "parsed": {
+    "tag": "screening:excluded",
+    "confidence_score": 1.0,
+    "exclusion_reason": "no_accessibility_focus"
+  },
+  "wall_s": 9.096429347991943,
+  "usage": {
+    "input_tokens": 1014,
+    "output_tokens": 40,
+    "total_tokens": 1874
+  }
+}

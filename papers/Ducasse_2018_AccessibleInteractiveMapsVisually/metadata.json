@@ -1,0 +1,15 @@
+{
+  "title": "Accessible Interactive Maps for Visually Impaired Users",
+  "authors": [
+    "Julie Ducasse",
+    "Anke M. Brock",
+    "Christophe Jouffrais"
+  ],
+  "year": "2018",
+  "venue": "Springer — Mobility of Visually Impaired People, chapter 17",
+  "arxiv_id": "2208.14685",
+  "doi": "10.1007/978-3-319-54446-5_17",
+  "abstract": "Tactile maps are commonly used to give visually impaired users access to geographical representations. Although those relief maps are efficient tools for acquisition of spatial knowledge, they present several limitations and issues such as the need to read braille. Several research projects have been led during the past three decades in order to improve access to maps using interactive technologies. In this chapter, we present an exhaustive review of interactive map prototypes. We classified existing interactive maps into two categories: Digital Interactive Maps (DIMs) that are displayed on a flat surface such as a screen; and Hybrid Interactive Maps (HIMs) that include both a digital and a physical representation. In each family, we identified several subcategories depending on the technology being used. We compared the categories and subcategories according to cost, availability and technological limitations, but also in terms of content, comprehension and interactivity. Then we reviewed a number of studies showing that those maps can support spatial learning for visually impaired users. Finally, we identified new technologies and methods that could improve the accessibility of graphics for visually impaired users in the future.",
+  "url": "http://arxiv.org/abs/2208.14685v1",
+  "pdf_url": "https://arxiv.org/pdf/2208.14685v1"
+}

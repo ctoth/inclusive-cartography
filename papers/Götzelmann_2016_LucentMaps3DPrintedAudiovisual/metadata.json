@@ -1,0 +1,15 @@
+{
+  "title": "LucentMaps: 3D Printed Audiovisual Tactile Maps for Blind and Visually Impaired People",
+  "authors": ["Timo Götzelmann"],
+  "year": "2016",
+  "arxiv_id": null,
+  "doi": "10.1145/2982142.2982163",
+  "abstract": "Tactile maps support blind and visually impaired people in orientation and for familiarisation with unknown environments. Interactive approaches complement these maps with auditory feedback. However, commonly these approaches focus on blind people. We present an approach which incorporates visually impaired people as well as blind people by using 3D printed translucent tactile maps on top of touch screens with capacitive input capabilities. These individual tactile maps can be read in conjunction with common tablet computers and smartphones. They enter specific tangible inputs by the touch of a user in conjunction with predefined gestures. In contrast to existing approaches, no special (and expensive) hardware is required to produce and use tactile maps; they can be created with widely available consumer 3D printers. We introduce methods to produce such tactile maps as well as the technical concept for the interaction with them. For this, we use Android tablets and smartphones with standard capacitive touch screens. The maps are identified automatically by the system by means of 3D printed capacitive markers. An approach for evaluation with 5 blind and visually impaired persons supports visually impaired persons as well as blind people for information on their surroundings through the combination of 3D printed individual tactile maps and common mobile devices.",
+  "url": "https://dl.acm.org/doi/10.1145/2982142.2982163",
+  "pdf_url": null,
+  "venue": "Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '16)",
+  "venue_type": "conference",
+  "pages": "81-90",
+  "affiliation": "Nuremberg Institute of Technology, Germany",
+  "bibtex": "@inproceedings{Goetzelmann2016LucentMaps,\n author = {G\u00f6tzelmann, Timo},\n title = {LucentMaps: 3D Printed Audiovisual Tactile Maps for Blind and Visually Impaired People},\n booktitle = {Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility},\n series = {ASSETS '16},\n year = {2016},\n pages = {81--90},\n publisher = {ACM},\n doi = {10.1145/2982142.2982163}\n}\n"
+}

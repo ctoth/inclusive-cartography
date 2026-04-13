@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 0,
+  "item_id": "seed::Ducasse_2018_AccessibleInteractiveMapsVisually",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.92,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.92,
+    "exclusion_reason": null
+  },
+  "wall_s": 6.532752513885498,
+  "usage": {
+    "input_tokens": 994,
+    "output_tokens": 492,
+    "total_tokens": 1486
+  }
+}

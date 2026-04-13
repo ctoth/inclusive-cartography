@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "arxiv-neg::1907.01086v2",
+  "raw_text": "{\n  \"tag\": \"screening:excluded\",\n  \"confidence_score\": 0.99,\n  \"exclusion_reason\": \"no_accessibility_focus\"\n}",
+  "parsed": {
+    "tag": "screening:excluded",
+    "confidence_score": 0.99,
+    "exclusion_reason": "no_accessibility_focus"
+  },
+  "wall_s": 2.9658493995666504,
+  "usage": {
+    "input_tokens": 1003,
+    "output_tokens": 227,
+    "total_tokens": 1230
+  }
+}

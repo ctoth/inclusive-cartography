@@ -1,0 +1,19 @@
+{
+  "provider": "gemini",
+  "model": "gemini-2.5-pro",
+  "temperature": 1.0,
+  "sample_idx": 4,
+  "item_id": "seed::Ducasse_2018_AccessibleInteractiveMapsVisually",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.98,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.98,
+    "exclusion_reason": null
+  },
+  "wall_s": 8.997822761535645,
+  "usage": {
+    "input_tokens": 1070,
+    "output_tokens": 35,
+    "total_tokens": 1869
+  }
+}

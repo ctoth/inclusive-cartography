@@ -1,0 +1,20 @@
+{
+  "title": "MapSense: Multi-Sensory Interactive Maps for Children Living with Visual Impairments",
+  "authors": [
+    "Emeline Brulé",
+    "Gilles Bailly",
+    "Anke Brock",
+    "Frédéric Valentin",
+    "Grégoire Denis",
+    "Christophe Jouffrais"
+  ],
+  "year": "2016",
+  "arxiv_id": null,
+  "doi": "10.1145/2858036.2858375",
+  "abstract": "We report on the design process leading to the creation of MapSense, a multi-sensory interactive map for visually impaired children. We conducted a formative study in a specialized institute to understand children's educational needs, their context of care and their preferences regarding interactive technologies. The findings (1) outline the needs for tools and methods to help children acquire spatial skills and (2) provide four design guidelines for educational assistive technologies. Based on these findings and an iterative process, we designed and deployed MapSense in the institute during two days. It enables collaborations between children with a broad range of impairments, and facilitates the satisfaction of the former and eases the work of the latter.",
+  "url": "https://hal.science/hal-01263056",
+  "pdf_url": "https://hal.science/hal-01263056/document",
+  "venue": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI 2016)",
+  "venue_type": "conference",
+  "hal_id": "hal-01263056"
+}

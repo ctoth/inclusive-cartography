@@ -1,0 +1,113 @@
+# Citations
+
+## Reference List
+
+*Extracted from the References section (chapter pages 34-44). Where DOIs or URLs were visible on the page images, they are preserved verbatim. Formatting has been normalised to a consistent bibliographic style.*
+
+- Bahram, S. (2013). Multimodal eyes-free exploration of maps: TIKISY. *ACM SIGACCESS Accessibility and Computing*, (106), 3-11. doi:10.1145/2505401.2505402
+- Bardot, S., Brock, A., Serrano, M., & Jouffrais, C. (2014). Quick-glance and in-depth exploration of a tabletop map for visually impaired people. *Proceedings of the 26th Conference on l'Interaction Homme-Machine - IHM '14* (pp. 165-170). New York, NY, USA: ACM Press. doi:10.1145/2670444.2670465
+- Bardot, S., Serrano, M., & Jouffrais, C. (2016). From tactile to virtual: Using a Smartwatch to improve Spatial Map Exploration for Visually Impaired Users. In *Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services - MobileHCI '16* (pp. 100-111). New York, NY, USA: ACM.
+- Brewster, S. A. (2002). Visualization tools for blind people using multiple modalities. *Disability and Rehabilitation*, 24(11-12), 613-621.
+- Brewster, S., & Brown, L. (2004). Tactons: structured tactile messages for non-visual information display. *Proceedings of the 5th Conference on Australasian User Interface (AUIC '04)* (pp. 15-23).
+- Buzzi, M. C., Buzzi, M., Leporini, B., & Martusciello, L. (2011). Making visual maps accessible to the blind. In *Universal Access in Human-Computer Interaction* (pp. 271-280). doi:10.1007/978-3-642-21663-3
+- Caddeo, P., Fornara, F., Nenci, A. M., & Piroddi, A. (2006). Wayfinding tasks in visually impaired people: the role of tactile maps. *Cognitive Processing*, 7, 168-169. doi:10.1007/s10339-006-0128-x
+- Campin, B., McCurdy, W., Brunet, L., & Siekierska, E. (2003). SVG Maps for People with Visual Impairment. Proceedings of SVG Open. Retrieved from http://www.svgopen.org/2003/papers/svgmappingforpeoplewithvisualimpairments/
+- Campos, G. (2005). The pantograph: A Large Workspace Haptic Device for a Multimodal Image.
+- Caroll, D., Chakraborty, S., & Lazar, J. (2013). Designing Accessible Visualizations: The Case of Designing a Weather Map for Blind Users. *Universal Access in Human-Computer Interaction* (pp. 436-445).
+- Cattaneo, Z., & Vecchi, T. (2011). *Blind vision: the neuroscience of visual impairment*. MIT Press.
+- De Felice, F., Renna, F., Attolico, G., & Distante, A. (2007). A haptic/acoustic application to allow blind the access to shape based educational resources. In *International Conference on Computers Helping People with Special Needs* (pp. 1108-1111).
+- Delogu, F., Palmiero, M., Federici, S., Plaisant, C., Zhao, H., & Belardinelli, O. (2010). Non-visual exploration of geographic maps: Does sonification help? *Disability and Rehabilitation: Assistive Technology*, 5(3), 164-174. doi:10.3109/17483100903100277
+- Ducasse, J., Macé, M., & Jouffrais, C. (2015). From Open Geographic Data to Tangible Maps: Improving the Accessibility of Maps for Visually Impaired People. In *ISPRS International Workshop on Geospatial Data in a Changing World*.
+- Ducasse, J., Macé, M., Serrano, M., & Jouffrais, C. (2016). Tangible Reels: Construction and Exploration of Tangible Maps by Visually Impaired Users. *CHI 2016*. doi:10.1145/2858036.2858058
+- Edman, P. K. (1992). *Tactile graphics*. New York, NY: American Foundation for the Blind.
+- Espinosa, M. A., Ungar, S., Ochaíta, E., Blades, M., & Spencer, C. (1998). Comparing methods for introducing blind and visually impaired people to unfamiliar urban environments. *Journal of Environmental Psychology*, 18(3), 277-287. doi:10.1006/jevp.1998.0097
+- Fakourfar, O., & Neustaedter, C. (2015). Tactile Mapping Solutions for Visually Impaired. Simon Fraser University Report.
+- Follmer, S., Leithinger, D., Olwal, A., Hogge, A., & Ishii, H. (2013). inFORM: dynamic physical affordances and constraints through shape and object actuation. *Proceedings of UIST '13*, (pp. 417-426).
+- Fritz, J. P., & Barner, K. E. (1999). Design of a haptic data visualization system for people with visual impairments. *IEEE Transactions on Rehabilitation Engineering*, 7(3), 372-384.
+- Gardner, J. A., & Bulatov, V. (2001). Smart figures, SVG, and accessible web graphics. *Proceedings of the 2001 CSUN Conference*.
+- Gardner, J., & Bulatov, V. (2004). The IVEO technology: bringing tactile graphics into the 21st century. *Proceedings of the CSUN Conference*.
+- Giraud, S., Brock, A. M., Macé, M. J.-M., & Jouffrais, C. (2016). Map learning with a 3D printed interactive small-scale model: improvement of space and text memorization in visually impaired students. *Frontiers in Psychology*, 7, 930.
+- Giudice, N. A., Palani, H. P., Brenner, E., & Kramer, K. M. (2012). Learning non-visual graphical information using a touch-based vibro-audio interface. *Proceedings of the 14th International ACM SIGACCESS Conference on Computers and Accessibility - ASSETS '12* (pp. 103-110). doi:10.1145/2384916.2384935
+- Golledge, R. G., Rice, M. T., & Jacobson, R. D. (2005). A commentary on the use of touch for accessing on-screen spatial representations: The process of experiencing haptic maps and graphics. *The Professional Geographer*, 57(3), 339-349.
+- Goncu, C., & Marriott, K. (2011). GraVVITAS: generic multi-touch presentation of accessible graphics. In *INTERACT 2011* (Vol. 6946, pp. 30-48). Springer.
+- Götzelmann, T., & Pavkovic, A. (2014). Towards automatically generated tactile detail maps by 3D printers for blind persons. In *Computers Helping People with Special Needs* (pp. 1-7). Springer.
+- Guerreiro, T., Lagoa, P., Nicolau, H., Goncalves, D., & Jorge, J. (2008). From tapping to touching: Making touch screens accessible to blind users. *IEEE MultiMedia*, 15(4), 48-50.
+- Hakobyan, L., Lumsden, J., O'Sullivan, D., & Bartlett, H. (2013). Mobile assistive technologies for the visually impaired. *Survey of Ophthalmology*, 58(6), 513-528.
+- Harrison, C., & Hudson, S. E. (2009). Providing dynamically changeable physical buttons on a visual display. *CHI '09* (pp. 299-308).
+- Heller, M. A. (1989). Picture and pattern perception in the sighted and the blind: the advantage of the late blind. *Perception*, 18(3), 379-389.
+- Horstmann, M., Lorenz, M., Watkowski, A., Ioannidis, G., Herzog, O., King, A., ... Weber, G. (2004). Automated Interpretation and Accessible Presentation of Technical Diagrams for Blind People. *New Review of Hypermedia and Multimedia*, 10(2), 141-163.
+- Hu, M. (2015). Exploring new paradigms for accessible 3D printed graphs. *ASSETS '15* (pp. 365-366).
+- Ivanchev, M., Zinke, F., & Lucke, U. (2014). Pre-journey Visualization of Travel Routes for the Blind on Refreshable Interactive Tactile Displays. In *Computers Helping People with Special Needs* (pp. 81-88). Springer.
+- Jacobson, R. D. (1998). Navigating maps with little or no sight: A novel audio-tactile approach. *Proceedings of the Workshop on Content Visualization and Intermedia Representations*, 95-102.
+- Jansson, G., Bergamasco, M., & Frisoli, A. (2003). A New Option for the Visually Impaired to Experience 3D Art at Museums: Manual Exploration of Virtual Copies. *Visual Impairment Research*, 5(1), 1-12.
+- Jehoel, S., Ungar, S., McCallum, D., & Rowell, J. (2005). An evaluation of substrates for tactile maps and diagrams. *Journal of Visual Impairment & Blindness*, 99(2), 85-95.
+- Kaklanis, N., Votis, K., Moschonas, P., & Tzovaras, D. (2013). HapticRiaMaps: Towards Interactive exploration of web world maps for the visually impaired. *W4A '13*, Article 20.
+- Kane, S. K., Bigham, J. P., & Wobbrock, J. O. (2008). Slide Rule: making mobile touch screens accessible to blind people using multi-touch interaction. *ASSETS '08* (pp. 73-80).
+- Kane, S. K., Frey, B., & Wobbrock, J. O. (2013). Access lens: a gesture-based screen reader for real-world documents. *CHI '13* (pp. 347-350).
+- Kane, S. K., Morris, M. R., Perkins, A. Z., Wexler, D., Wobbrock, J. O. (2011). Access overlays: improving non-visual access to large touch screens for blind users. *UIST '11* (pp. 273-282).
+- Kane, S. K., & Bigham, J. P. (2014). Tracking @stemxcomet: teaching programming to blind adults. *SIGCSE '14*.
+- Koo, I. M., Jung, K., Koo, J. C., Nam, J.-D., Lee, Y. K., & Choi, H. R. (2008). Development of soft-actuator-based wearable tactile display. *IEEE Transactions on Robotics*, 24(3), 549-558.
+- Krueger, M. W., & Gilden, D. (1997). KnowWhere: An audio/spatial interface for blind people. *Proceedings of ICAD '97*.
+- Lahav, O., & Mioduser, D. (2004). Exploration of unknown spaces by people who are blind using a multi-sensory virtual environment. *Journal of Special Education Technology*, 19(3), 15-23.
+- Landua, S., & Gourgey, K. (2001). Development of a Talking Tactile Tablet. *Information Technology and Disabilities*, 7(2).
+- Landua, S., & Wells, L. (2003). Merging tactile sensory input and audio data by means of the Talking Tactile Tablet. *Proceedings of EuroHaptics 2003*.
+- Laviole, J., & Hachet, M. (2012). PapARt: Interactive 3D graphics and multi-touch augmented paper. *3DUI '12* (pp. 129-132).
+- Lederman, S. J., & Klatzky, R. L. (1987). Hand movements: A window into haptic object recognition. *Cognitive Psychology*, 19(3), 342-368.
+- Lederman, S. J., & Klatzky, R. L. (2009). Haptic perception: A tutorial. *Attention, Perception, & Psychophysics*, 71(7), 1439-1459.
+- Leithinger, D., Follmer, S., Olwal, A., Luescher, S., Hogge, A., Lee, J., & Ishii, H. (2013). Sublimate: state-changing virtual and physical rendering to augment interaction with shape displays. *CHI '13* (pp. 1441-1450).
+- Lenay, C., Gapenne, O., Hanneton, S., Marque, C., & Genouelle, C. (2003). Sensory substitution: limits and perspectives. *Touching for Knowing, Cognitive Psychology of Haptic Manual Perception*, 275-292.
+- Loomis, J. M., & Lederman, S. J. (1986). Tactual perception. In *Handbook of Perception and Human Performance* (Vol. 2). Wiley.
+- Loomis, J. M., Klatzky, R. L., & Lederman, S. J. (1991). Similarity of tactual and visual picture recognition with limited field of view. *Perception*, 20(2), 167-177.
+- Magnusson, C., & Rassmus-Gröhn, K. (2005). A dynamic haptic-audio traffic environment. *Proceedings of EuroHaptics 2005*.
+- Manshad, M. S., Pontelli, E., & Manshad, S. J. (2012). MICOO: Multimodal Interactive Cubicles for Blind Users. *ASSETS '12*.
+- Miele, J. A. (2003). Talking TMAP: A self-voicing tactile map system. *Proceedings of CSUN 2003*.
+- Miele, J. A., Landau, S., & Gilden, D. (2006). Talking TMAP: Automated generation of audio-tactile maps using Smith-Kettlewell's TMAP software. *British Journal of Visual Impairment*, 24(2), 93-100. doi:10.1177/0264619606064436
+- Minagawa, H., Ohnishi, N., & Sugie, N. (1996). Tactile-audio diagram for blind persons. *IEEE Transactions on Rehabilitation Engineering*, 4(4), 431-437.
+- Montello, D. R. (1993). Scale and multiple psychologies of space. *Spatial Information Theory: A Theoretical Basis for GIS* (pp. 312-321). Springer.
+- O'Modhrain, S., Giudice, N. A., Gardner, J. A., & Legge, G. E. (2015). Designing Media for Visually-Impaired Users of Refreshable Touch Displays: Possibilities and Pitfalls. *IEEE Transactions on Haptics*, 8(3), 248-257. doi:10.1109/TOH.2015.2466231
+- Paladugu, D. A., Wang, Z., & Li, B. (2010). On presenting audio-tactile maps to visually impaired users for getting directions. *CHI EA '10* (pp. 3955-3960).
+- Papadopoulos, K., Koustriava, E., & Koukourikos, P. (2018). Orientation and mobility aids for individuals with blindness. *British Journal of Visual Impairment*, 36(1).
+- Parente, P., & Bishop, G. (2003). BATS: the blind audio tactile mapping system. *Proceedings of ACMSE '03*.
+- Parkes, D. (1988). "NOMAD": An audio-tactile tool for the acquisition, use and management of spatially distributed information by partially sighted and blind people. *Proceedings of the Second International Symposium on Maps and Graphics for Visually Handicapped People*, 24-29.
+- Petit, G., Dufresne, A., Levesque, V., Hayward, V., & Trudeau, N. (2008). Refreshable tactile graphics applied to schoolbook illustrations for students with visual impairment. *ASSETS '08* (pp. 89-96).
+- Petrie, H., Schlieder, C., Blenkhorn, P., Evans, G., King, A., O'Neill, A.-M., ... Ioannidis, G. T. (2002). TeDUB: A system for presenting and exploring technical drawings for blind people. *ICCHP 2002*.
+- Picinali, L., Afonso, A., Denis, M., & Katz, B. F. G. (2014). Exploration of architectural spaces by blind people using auditory virtual reality for the construction of spatial knowledge. *International Journal of Human-Computer Studies*, 72(4), 393-407.
+- Poppinga, B., Magnusson, C., Pielot, M., & Rassmus-Gröhn, K. (2011). TouchOver map: audio-tactile exploration of interactive maps. *MobileHCI '11* (pp. 545-550). doi:10.1145/2037373.2037458
+- Prescher, D., Weber, G., & Spindler, M. (2010). A Tactile Windowing System for Blind Users. *ASSETS '10* (pp. 91-98).
+- Rassmus-Gröhn, K., Magnusson, C., & Eftring, H. (2007). AHEAD-audio-haptic drawing editor and explorer for education. *HAVE '07* (pp. 62-66).
+- Rice, M., Jacobson, R. D., Golledge, R. G., & Jones, D. (2005). Design Considerations for Haptic and Auditory Map Interfaces. *Cartography and Geographic Information Science*, 32(4), 381-391. doi:10.1559/152304005775194656
+- Schmitz, B., & Ertl, T. (2012). Interactively Displaying Maps on a Tactile Graphics Display. In *SKALID 2012-Spatial Knowledge Acquisition with Limited Information Displays* (pp. 13-18).
+- Schneider, J., & Strothotte, T. (2000). Constructive exploration of spatial information by blind users. *Assets '00* (pp. 188-192).
+- Senette, C., Buzzi, M. C., Buzzi, M., Leporini, B., & Martusciello, L. (2013). Enriching graphic maps to enable multimodal interaction by blind people. In *UAHCI 2013*.
+- Shi, L., McLachlan, R., Zhao, Y., & Ye, S. (2016). Tangible Charts for Blind Users. *ASSETS '16*.
+- Simonnet, M., Jacobson, R. D., Vieilledent, S., & Tisseau, J. (2009). SeaTouch: A Haptic and Auditory Maritime Environment for Non-Visual Cognitive Mapping of Blind Sailors. In *COSIT 2009* (LNCS 5756, pp. 212-226). Springer. doi:10.1007/978-3-642-03832-7_13
+- Sjöström, C. (2002). Non-visual haptic interaction design: Guidelines and applications. PhD Thesis, Lund University.
+- Stangl, A., Kim, J., & Yeh, T. (2014). 3D printed tactile picture books for children with visual impairments. *IDC '14*.
+- Strothotte, T., Petrie, H., Johnson, V., & Reichert, L. (1999). MoBIC: user needs and preliminary design for a mobility aid for blind and elderly travellers. *The European context for assistive technology*, 348-352.
+- Su, J., Rosenzweig, A., Goel, A., de Lara, E., & Truong, K. N. (2010). Timbremap: enabling the visually-impaired to use maps on touch-enabled devices. *MobileHCI '10* (pp. 17-26). doi:10.1145/1851600.1851606
+- Swaminathan, S., Roumen, T., Kovacs, R., Stangl, D., Mueller, S., & Baudisch, P. (2016). Linespace: A sensemaking platform for the blind. *CHI '16*.
+- Taibbi, M., Bernareggi, C., Gerino, A., Ahmetovic, D., & Mascetti, S. (2014). AudioFunctions: eyes-free exploration of mathematical functions on tablets. *ICCHP 2014*, 537-544.
+- Taylor, B., Dey, A., Siewiorek, D., & Smailagic, A. (2016). Customizable 3D printed tactile maps as interactive overlays. *ASSETS '16* (pp. 71-79).
+- Tatham, A. F. (1991). The design of tactile maps: Theoretical and practical considerations. *Proceedings of the International Cartographic Association*.
+- Ungar, S., Blades, M., & Spencer, C. (1996). The ability of visually impaired children to locate themselves on a tactile map. *Journal of Visual Impairment & Blindness*, 90(6), 526-535.
+- Völkel, T., Weber, G., & Baumann, U. (2008). Tactile graphics revised: the novel BrailleDis 9000 pin-matrix device with multitouch input. *ICCHP 2008*, 835-842.
+- Walker, B. N., & Brewster, S. A. (2000). Spatial audio in small screen device displays. *Personal Technologies*, 4(2), 144-154.
+- Wang, Z., Li, B., Hedgpeth, T., & Haven, T. (2009). Instant tactile-audio map: enabling access to digital maps for people with visual impairment. *ASSETS '09* (pp. 43-50).
+- Wang, Z., Li, N., & Li, B. (2012). Fast and independent access to map directions for people who are blind. *Interacting with Computers*, 24(2), 91-106.
+- Weir, R., Sizemore, B., Henderson, H., Chakraborty, S., & Lazar, J. (2012). Development and evaluation of sonified weather maps for blind users. *Proceedings of the 7th Conference on Design for Inclusion*.
+- Yairi, I. E., Igi, S., & others (2009). Universal designed map interface for mobile handsets. *ICCHP 2008*.
+- Yu, W., & Brewster, S. (2002). Multimodal virtual reality versus printed medium in visualization for blind people. *ASSETS '02* (pp. 57-64).
+- Yu, W., Reid, D., & Brewster, S. A. (2002). Web-based multimodal graphs for visually impaired people. In *Proceedings of the 1st Cambridge Workshop on Universal Access and Assistive Technology*.
+- Zeng, L., & Weber, G. (2010). Audio-haptic browser for a geographical information system. In *ICCHP 2010* (pp. 466-473). Springer.
+- Zeng, L., & Weber, G. (2011). Accessible Maps for the Visually Impaired. In *Proc. of IFIP INTERACT 2011 Workshop on ADDW* (pp. 54-60). Retrieved from http://ceur-ws.org/Vol-792/Zeng.pdf
+- Zeng, L., & Weber, G. (2012a). ATMap: Annotated Tactile Maps for the Visually Impaired. In *COST 2102 International Training School, LNCS 7403* (pp. 290-298). Springer. doi:10.1007/978-3-642-34584-5
+- Zeng, L., & Weber, G. (2012b). Building Augmented You-are-here Maps through Collaborative Annotations for the Visually Impaired. In *SKALID 2012* (pp. 7-12). Retrieved from http://ceur-ws.org/Vol-888/SKALID2012_Zeng.pdf
+- Zhao, H., Plaisant, C., Shneiderman, B., & Lazar, J. (2008). Data Sonification for Users with Visual Impairment. *ACM Transactions on Computer-Human Interaction*, 15(1), 1-28. doi:10.1145/1352782.1352786
+
+## Key Citations for Follow-up
+
+- **Brock, A., Truillet, P., Oriola, B., Picard, D., & Jouffrais, C. (2015).** Interactivity Improves Usability of Geographic Maps for Visually Impaired People. *Human-Computer Interaction*, 30(2), 156-194. — The primary empirical study behind the chapter's claim that interactive tactile maps improve layout recall at one-week retention. Must read for any numerical effect sizes.
+- **Giudice, N. A., Palani, H. P., Brenner, E., & Kramer, K. M. (2012).** Learning non-visual graphical information using a touch-based vibro-audio interface. ASSETS '12. — Canonical comparison of touchscreen-only vs raised-line maps for shape reconstruction; cited as evidence that pure-touchscreen maps degrade spatial cognition.
+- **Picinali, L., Afonso, A., Denis, M., & Katz, B. F. G. (2014).** Exploration of architectural spaces by blind people using auditory virtual reality. IJHCS 72(4). — Evidence that audio-only VEs can produce transferable spatial knowledge; important counterpoint to the "tactile is necessary" position.
+- **Ducasse, J., Macé, M., Serrano, M., & Jouffrais, C. (2016).** Tangible Reels. CHI '16. — The authoring-by-VI-users demonstrator cited as the first genuine solution to the author-side accessibility bottleneck.
+- **Zeng, L., & Weber, G. (2012a/b).** ATMap and Augmented You-are-here Maps. — Canonical references for the refreshable-pin-array sub-family and for collaborative annotation of accessible maps.

@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 1,
+  "item_id": "seed::Palivcová_2020_InteractiveTactileMapTool",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.86,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.86,
+    "exclusion_reason": null
+  },
+  "wall_s": 6.0951032638549805,
+  "usage": {
+    "input_tokens": 924,
+    "output_tokens": 665,
+    "total_tokens": 1589
+  }
+}

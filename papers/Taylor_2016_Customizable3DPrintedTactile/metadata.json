@@ -1,0 +1,16 @@
+{
+  "title": "Customizable 3D Printed Tactile Maps as Interactive Overlays",
+  "authors": [
+    "Brandon Taylor",
+    "Anind Dey",
+    "Dan Siewiorek",
+    "Asim Smailagic"
+  ],
+  "year": "2016",
+  "arxiv_id": null,
+  "doi": "10.1145/2982142.2982167",
+  "abstract": "Though tactile maps have been shown to be useful tools for visually impaired individuals, their availability has been limited by manufacturing and design costs. In this paper, we present a system that uses 3D printing to (1) make tactile maps more affordable to produce, (2) allow visually impaired individuals to independently design and customize maps, and (3) provide interactivity using widely available mobile devices. Our design employs a novel use of conductive filament for parts of our 3D prints, we are able to extend the touchscreen's sensitivity to the 3D printed maps. This allows for a wide range of digital audio overlays to be added atop the physical maps. The development of the system and feedback gathered from visually impaired users in three cities is described.",
+  "venue": "Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2016)",
+  "url": "https://doi.org/10.1145/2982142.2982167",
+  "pdf_url": null
+}

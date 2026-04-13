@@ -1,0 +1,4 @@
+---
+tags: [tactile-maps, survey, production-methods, accessibility, blind-users]
+---
+Reports Part 1 of an international postal-questionnaire survey (146 distributed, 87 complete responses from 28 countries) of tactile-map producers, characterising who makes tactile maps, what technologies they use, how many they produce per year, and what environments they map. Key findings: microcapsule/swell paper is the dominant production method (~70% adoption), thermoform is still used by longer-established producers, production volumes are heavily right-skewed, and there are substantive UK-vs-USA differences in individual-vs-general-reference output. Directly relevant to the inclusive-cartography seed corpus because it is one of the very few empirical characterisations of real-world tactile-map **production** rather than idealised lab-condition map use.

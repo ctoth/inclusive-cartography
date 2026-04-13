@@ -1,0 +1,19 @@
+{
+  "provider": "gemini",
+  "model": "gemini-2.5-pro",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "seed::Brock_2015_InteractiveMapsUsability",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 1.00,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 1.0,
+    "exclusion_reason": null
+  },
+  "wall_s": 9.995485067367554,
+  "usage": {
+    "input_tokens": 1098,
+    "output_tokens": 35,
+    "total_tokens": 2106
+  }
+}

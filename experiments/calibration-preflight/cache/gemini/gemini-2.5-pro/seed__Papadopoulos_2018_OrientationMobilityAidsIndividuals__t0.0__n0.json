@@ -1,0 +1,19 @@
+{
+  "provider": "gemini",
+  "model": "gemini-2.5-pro",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "seed::Papadopoulos_2018_OrientationMobilityAidsIndividuals",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.98,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.98,
+    "exclusion_reason": null
+  },
+  "wall_s": 11.779227256774902,
+  "usage": {
+    "input_tokens": 1036,
+    "output_tokens": 35,
+    "total_tokens": 1924
+  }
+}

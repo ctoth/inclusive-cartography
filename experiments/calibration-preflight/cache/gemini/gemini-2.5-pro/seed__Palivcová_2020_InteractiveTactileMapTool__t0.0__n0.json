@@ -1,0 +1,19 @@
+{
+  "provider": "gemini",
+  "model": "gemini-2.5-pro",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "seed::Palivcová_2020_InteractiveTactileMapTool",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.95,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.95,
+    "exclusion_reason": null
+  },
+  "wall_s": 14.61294436454773,
+  "usage": {
+    "input_tokens": 1003,
+    "output_tokens": 35,
+    "total_tokens": 2626
+  }
+}

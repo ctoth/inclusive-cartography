@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 1,
+  "item_id": "seed::Brock_2015_InteractiveMapsUsability",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.93,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.93,
+    "exclusion_reason": null
+  },
+  "wall_s": 4.483294725418091,
+  "usage": {
+    "input_tokens": 1017,
+    "output_tokens": 230,
+    "total_tokens": 1247
+  }
+}

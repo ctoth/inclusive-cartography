@@ -1,0 +1,16 @@
+{
+  "title": "Interactive Tactile Map as a Tool for Building Spatial Knowledge of Visually Impaired Older Adults",
+  "authors": [
+    "Dominika Palivcová",
+    "Miroslav Macík",
+    "Zdeněk Míkovec"
+  ],
+  "year": "2020",
+  "arxiv_id": null,
+  "doi": "10.1145/3334480.3382912",
+  "abstract": "We present an interactive tactile map tailored for older adults with vision impairments, which should help them to acquire spatial knowledge of complex indoor environments, like a residential care home. Interestingly current research largely omits visually impaired older adults. As the outcome of our iterative design process, we introduced the design of the tactile map that employs haptically salient key objects and large touch-sensitive segments along with the route-guidance function. Route-guidance function enriches the tactile map with the desired route information to support the route knowledge acquisition. Qualitative evaluation (mean age was 81.4 years) indicates the ability of our concept to help our audience building spatial knowledge of the indoor environment.",
+  "url": "https://doi.org/10.1145/3334480.3382912",
+  "pdf_url": null,
+  "venue": "CHI 2020 Extended Abstracts (Late-Breaking Work, LBW039), April 25-30, 2020, Honolulu, HI, USA",
+  "bibtex": "@inproceedings{Palivcova2020InteractiveTactileMap,\n  author    = {Dominika Palivcov\\'{a} and Miroslav Mac\\'{i}k and Zden\\v{e}k M\\'{i}kovec},\n  title     = {Interactive Tactile Map as a Tool for Building Spatial Knowledge of Visually Impaired Older Adults},\n  booktitle = {Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems},\n  series    = {CHI EA '20},\n  year      = {2020},\n  publisher = {ACM},\n  address   = {New York, NY, USA},\n  doi       = {10.1145/3334480.3382912},\n  pages     = {1--9}\n}\n"
+}

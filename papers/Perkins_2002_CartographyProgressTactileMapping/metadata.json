@@ -1,0 +1,19 @@
+{
+  "title": "Cartography: progress in tactile mapping",
+  "authors": [
+    "Chris Perkins"
+  ],
+  "year": "2002",
+  "arxiv_id": null,
+  "doi": "10.1191/0309132502ph383pr",
+  "abstract": "For this first of three progress reports on cartography, I am going to focus upon research into tactile mapping for visually impaired people, published since Fleming's (1990) review. This specialist field is often perceived as marginal to more mainstream cartography; production is often informal and receives no attention in Parry and Perkins (2000), the latest benchmark survey of the state of world mapping. Key themes in the tactile mapping community, however, reflect current concerns in the wider worlds of cartographic research. Six topics are reviewed here. How might spatial understanding differ among visually impaired people, and how might this be linked to map use? How does the 'real-world' practice of tactile map design vary according to context? To what extent has the increasing emphasis on standardization also applied to tactile mapping? How is technological change affecting tactile map production? Are hard-copy tactile representations still relevant in the digital and multimedia age? Finally, given the cultural turn in geography and more critical emphases among historians of cartography, how relevant are ethical issues in tactile map research?",
+  "url": "https://doi.org/10.1191/0309132502ph383pr",
+  "pdf_url": null,
+  "venue": "Progress in Human Geography",
+  "volume": "26",
+  "issue": "4",
+  "pages": "521-530",
+  "publisher": "Arnold / SAGE Publications",
+  "affiliation": "School of Geography, University of Manchester, Manchester M13 9PL, UK",
+  "bibtex": "@Article{Perkins2002CartographyPI,\n author = {Chris Perkins},\n journal = {Progress in Human Geography},\n volume = {26},\n number = {4},\n pages = {521--530},\n title = {Cartography: progress in tactile mapping},\n year = {2002},\n doi = {10.1191/0309132502ph383pr}\n}\n"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Institutions: Abstract Model Theory for Specification and Programming",
+  "authors": [
+    "Joseph A. Goguen",
+    "Rod M. Burstall"
+  ],
+  "year": "1992",
+  "arxiv_id": null,
+  "doi": "10.1145/147508.147524",
+  "abstract": "There is a population explosion among the logical systems used in Computing Science. Examples include first order logic, equational logic, Horn clause logic, higher order logic, infinitary logic, dynamic logic, intuitionistic logic, order-sorted logic, and temporal logic; moreover, there is a tendency for each theorem prover to have its own idiosyncratic logical system. The concept of institution is introduced to formalize the informal notion of 'logical system'. The major requirement is that there is a satisfaction relation between models and sentences that is consistent under change of notation. Institutions enable us to abstract from syntactic and semantic detail when working on language structure 'in the large'; for example, we can show that any institution has a sound and complete proof calculus for its theorems, we can define theories, their morphisms, and their colimits, all without giving a specific syntax or semantics. A second main result considers when theory structuring is preserved by institution morphisms. A third main result gives conditions on an institution for the usual specification-building operations (such as '+' and 'derive') to yield an institution with the same sort of flexibility as what we started with. This applies in particular to constraints, which we use to treat 'data', 'file', and 'hierarchy' constraints. Further results show how to define institutions that allow sentences and constraints from two or more institutions. All our general results apply to such 'duplex' or 'multiplex' institutions.",
+  "url": "https://cseweb.ucsd.edu/~goguen/pps/ins.pdf",
+  "pdf_url": "https://cseweb.ucsd.edu/~goguen/pps/ins.pdf",
+  "bibtex": "@Article{Goguen1992InstitutionsAM,\n author = {Joseph A. Goguen and Rod M. Burstall},\n journal = {Journal of the ACM},\n pages = {95-146},\n title = {Institutions: Abstract Model Theory for Specification and Programming},\n volume = {39},\n number = {1},\n year = {1992},\n doi = {10.1145/147508.147524}\n}\n",
+  "venue": "Journal of the ACM",
+  "volume": "39",
+  "number": "1",
+  "pages": "95-146"
+}

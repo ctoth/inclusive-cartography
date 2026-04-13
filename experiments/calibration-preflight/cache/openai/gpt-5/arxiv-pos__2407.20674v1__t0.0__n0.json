@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "arxiv-pos::2407.20674v1",
+  "raw_text": "{\n  \"tag\": \"screening:rq1\",\n  \"confidence_score\": 0.92,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq1",
+    "confidence_score": 0.92,
+    "exclusion_reason": null
+  },
+  "wall_s": 7.287155628204346,
+  "usage": {
+    "input_tokens": 959,
+    "output_tokens": 495,
+    "total_tokens": 1454
+  }
+}

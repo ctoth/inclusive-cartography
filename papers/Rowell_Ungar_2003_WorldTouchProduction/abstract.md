@@ -1,0 +1,11 @@
+# Abstract
+
+## Original Text (Verbatim)
+
+This paper reports the findings of an international survey that collected data on production methods, techniques, outputs and design preferences among tactile map producers, designers and researchers worldwide. A number of consistencies and inconsistencies are identified and we speculate on the extent to which the current state of tactile map production is well matched to the needs of the client population. In this first part of the report we describe the sample on which the report is based, and describe the work it covers in terms of quantity of maps produced, choice of production method, types of environment mapped and intended uses of maps. Furthermore, some information lends itself particularly well to being depicted by graphic representations and as such is a more efficient form of communication. For instance, it has been found that blind and partially sighted people who have the ability and opportunity to read tactile maps perform better in mobility tasks in unfamiliar environments than those who are provided with route descriptions relying only on audiotape, or learn new routes accompanied by sighted guides (Brambring & Weber, 1981; Espinosa, Ungar, Ochaita, Blades & Spencer, 1998; Ungar, Blades, Spencer & Morsley, 1994).
+
+---
+
+## Our Interpretation
+
+An international questionnaire (146 distributed, 87 complete responses from 28 countries) characterises the global tactile-map **production** landscape in the early 2000s: who is making tactile maps, what technologies they use, how much they produce, and what kinds of environments they map. The headline finding is that microcapsule paper has become the dominant production method (≈70% adoption) and correlates with newer producers, while older producers retain thermoform workflows; production volumes are heavily right-skewed; and there are substantive cross-national differences in whether production targets individually-tailored or general-reference maps. The paper is a direct input to our seed corpus because it is one of the very few empirical characterisations of real-world tactile-map production — a necessary counterweight to the cognition-and-legibility literature that assumes idealised lab-quality maps.

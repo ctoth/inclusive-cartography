@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 0.0,
+  "sample_idx": 0,
+  "item_id": "seed::Brulé_2016_MapSenseMulti-SensoryInteractiveMaps",
+  "raw_text": "{\n  \"tag\": \"screening:rq1\",\n  \"confidence_score\": 0.91,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq1",
+    "confidence_score": 0.91,
+    "exclusion_reason": null
+  },
+  "wall_s": 7.065537691116333,
+  "usage": {
+    "input_tokens": 922,
+    "output_tokens": 426,
+    "total_tokens": 1348
+  }
+}

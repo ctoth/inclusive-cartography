@@ -1,0 +1,11 @@
+*.pdf
+*.png
+
+# Pre-publication private paths
+papers/Wabiski_2026_CognitiveReviewProtocol/
+notes/
+
+# Session-specific meeting-prep critiques (private)
+reports/talking-points-*.md
+reports/calibration-preflight.md
+reports/meeting-brief-*.md

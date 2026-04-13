@@ -1,0 +1,4 @@
+---
+tags: [blindness, orientation-mobility, audio-tactile-maps, verbal-description, empirical-study]
+---
+A within-subjects experiment (N=20 totally blind adults) comparing a structured audio-only verbal description of three real urban areas in Thessaloniki to an embossed audio-tactile map of the same areas for O&M pre-journey preparation. Participants produced significantly more correct answers about routes and points of interest when using the audio-tactile map (M=5.75, SD=1.37) than when using the verbal description (M=4.85, SD=1.31), with no significant difference in study time or execution time between conditions. The paper provides one of the few direct, ecologically-valid benchmarks of non-visual encoding channels for cognitive map formation and is a foundational data point for any inclusive-cartography system that needs to predict accuracy gains when moving from audio-only to tactile-plus-audio representations.

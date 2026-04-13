@@ -1,0 +1,17 @@
+{
+  "title": "Accessible Maps for the Blind: Comparing 3D Printed Models with Tactile Graphics",
+  "authors": [
+    "Leona Holloway",
+    "Kim Marriott",
+    "Matthew Butler"
+  ],
+  "year": "2018",
+  "arxiv_id": null,
+  "doi": "10.1145/3173574.3173772",
+  "abstract": "Tactile maps are widely used in Orientation and Mobility (O&M) training for people with blindness and severe vision impairment to provide knowledge of graphics, however it is increasingly possible to present accessible graphics using 3D printers. We present two user studies comparing 3D printed models with tactile graphics for two real-world use cases: a park map and a train-station platform map. Pilot studies, a formal comparison study with 16 blind/low-vision participants, and follow-up interviews with O&M specialists show that 3D printed maps provide faster, more accurate, and more preferred access to spatial information than traditional tactile graphics. We also present a prototype of a 3D printed campus model augmented with capacitive-touch interactive audio labels and derive guidelines for designing accessible 3D-printed maps for use in O&M training and in education.",
+  "url": "https://doi.org/10.1145/3173574.3173772",
+  "pdf_url": null,
+  "venue": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI 2018), Montreal, QC, Canada",
+  "venue_type": "conference",
+  "bibtex": "@inproceedings{Holloway2018AccessibleMF,\n author = {Holloway, Leona and Marriott, Kim and Butler, Matthew},\n title = {Accessible Maps for the Blind: Comparing 3D Printed Models with Tactile Graphics},\n booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},\n series = {CHI '18},\n year = {2018},\n doi = {10.1145/3173574.3173772},\n publisher = {ACM}\n}\n"
+}

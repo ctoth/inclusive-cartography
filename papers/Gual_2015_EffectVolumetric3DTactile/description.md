@@ -1,0 +1,4 @@
+---
+tags: [inclusive-cartography, accessibility, tactile-maps, 3d-printing, empirical-study]
+---
+A counterbalanced within-subjects field study (N=16 across blind, visually-impaired, and sighted-blindfolded profiles) comparing a flat microcapsule (swell-paper) tactile map against a mixed map whose 10 point symbols are replaced with FDM-printed ABS volumetric symbols 3-8 mm tall, using three wayfinding tasks timed and scored for errors. The 3D-enhanced map reduces mean location time and error counts for every profile with the largest gains for blind users, closes the performance gap between visual profiles, and shows a transfer-learning advantage for participants who start on the 3D map. For the inclusive-cartography project this is a primary empirical data point that hybrid "inclusive" map production (swell paper + 3D-printed point symbols) improves BVI wayfinding, and a useful small-N replication target for the systematic review's claim-extraction pipeline.

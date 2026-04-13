@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 1,
+  "item_id": "seed::Holloway_2018_AccessibleMapsBlindComparing",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.92,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.92,
+    "exclusion_reason": null
+  },
+  "wall_s": 4.694248199462891,
+  "usage": {
+    "input_tokens": 976,
+    "output_tokens": 541,
+    "total_tokens": 1517
+  }
+}

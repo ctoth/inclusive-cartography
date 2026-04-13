@@ -1,0 +1,19 @@
+{
+  "provider": "openai",
+  "model": "gpt-5",
+  "temperature": 1.0,
+  "sample_idx": 4,
+  "item_id": "seed::Gual_2015_EffectVolumetric3DTactile",
+  "raw_text": "{\n  \"tag\": \"screening:rq2\",\n  \"confidence_score\": 0.83,\n  \"exclusion_reason\": null\n}",
+  "parsed": {
+    "tag": "screening:rq2",
+    "confidence_score": 0.83,
+    "exclusion_reason": null
+  },
+  "wall_s": 3.6965978145599365,
+  "usage": {
+    "input_tokens": 860,
+    "output_tokens": 325,
+    "total_tokens": 1185
+  }
+}
